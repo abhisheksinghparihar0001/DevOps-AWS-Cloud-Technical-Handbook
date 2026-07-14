@@ -487,7 +487,38 @@ Highly available DNS service.
 - Multi-Value Routing
 
 ---
+# 🛠️ Technologies Covered
 
+- AWS Cloud
+- Kubernetes
+- Docker
+- Podman
+- ECS
+- EKS
+- Terraform
+- Ansible
+- Git
+- GitHub
+- Jenkins
+- GitLab CI/CD
+- AWS CodePipeline
+- Prometheus
+- Grafana
+- Redis
+- Trivy
+- NGINX
+- Route 53
+- ELB
+- EC2
+- Lambda
+- IAM
+- RDS
+- SQS
+- SNS
+- SES
+- MinIO
+- Velero
+- Amazon ECR
 
 ---
 ---
